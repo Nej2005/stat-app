@@ -1,6 +1,6 @@
 # STAT!
 
-Uploading stat-demo.mp4…
+https://github.com/user-attachments/assets/0409f7e8-e4aa-4c02-b191-f197e581ca59
 
 
 A drag-and-drop to-do board for Windows. Keep School, Work and Personal in their own workspaces, drag cards from **To Do** to **In Progress** to **Done**, and rename or add columns to fit how you work.
