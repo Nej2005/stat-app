@@ -1,6 +1,7 @@
 # STAT!
 
-![STAT! — Your to-dos, on one board.](poster.jpg)
+https://github.com/user-attachments/assets/2e675580-6ec6-4eeb-931b-141631cbc9b5
+
 
 A drag-and-drop to-do board for Windows. Keep School, Work and Personal in their own workspaces, drag cards from **To Do** to **In Progress** to **Done**, and rename or add columns to fit how you work.
 
